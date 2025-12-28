@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frontendeveloper01
+- 👋 Hi, I’m developer
 - 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning javascript 
 
